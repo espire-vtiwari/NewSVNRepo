@@ -11,7 +11,9 @@ namespace Consoleapp_test
      static void Main(string[] args)
         {
             Console.Write("This is hello world application ");
-            Console.WriteLine("111");
+            Console.WriteLine("This is Second line and commite to git");
+            Console.WriteLine("Save the code");
+
             Console.Read();
         }
     }
